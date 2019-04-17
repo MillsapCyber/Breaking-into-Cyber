@@ -38,8 +38,8 @@ https://armis.com/blueborne/
 https://github.com/skahwah/wordsmith
 https://challenges.re
 https://ssd.eff.org
-chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://webhome.auburn.edu/~carrhou/pdf/securityplus.pdf
-chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.comptia.jp/pdf/comptia-security-sy0-401.pdf
+http://webhome.auburn.edu/~carrhou/pdf/securityplus.pdf
+https://www.comptia.jp/pdf/comptia-security-sy0-401.pdf
 https://rocknsm.io
 https://www.hacksplaining.com
 https://thecyberwire.com
