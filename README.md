@@ -3,6 +3,8 @@ Getting started in cybersecurity
 
 
 LINKS:
+
+
 https://www.christophertruncer.com/eyewitness-triage-tool/
 https://docs.kali.org/kali-on-arm/install-kali-linux-arm-raspberry-pi
 https://www.wallofsheep.com/pages/tools-training
