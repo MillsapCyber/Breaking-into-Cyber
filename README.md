@@ -47,3 +47,4 @@ https://www.hacksplaining.com
 https://thecyberwire.com
 https://wiki.wireshark.org/SampleCaptures
 https://attackdefense.com
+http://dfir.org/?q=node/8
